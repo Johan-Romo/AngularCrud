@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Computadora ",
+      "price": 365
+    },
+    {
+      "id": 2,
+      "name": "Auriculares",
+      "price": 42
+    },
+    {
+      "id": 3,
+      "name": "Celular",
+      "price": 320
+    },
+    {
+      "id": 4,
+      "name": "TV",
+      "price": 500
+    },
+    {
+      "id": 5,
+      "name": "Parlante",
+      "price": 43
+    }
+  ]
+}
